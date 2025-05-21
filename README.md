@@ -2,9 +2,12 @@
 
 <p align="center"><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1747845613/Screenshot_2025-05-21_at_10.09.18_PM_pmj9jm.png" alt="project-image"></p>
 
-<h1>🛍️ Chromaic - GenZ Fashion E-commerce Store</h1>
+<div align="center">
+<p align="center">
+  <img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1747845782/logo_em2fux.png" alt="Cursor Pro Logo" width="200" style="border-radius: 6px;"/>
+</p>
 
-<p><strong>Chromaic</strong> is a full-stack e-commerce web application crafted for the GenZ audience. It's built with modern technologies and delivers a dynamic and smooth shopping experience with cool aesthetics and high performance.</p>
+<p><strong>Cursor</strong> is AI-powered code editor designed to enhance developer productivity by integrating advanced AI features directly into the coding environment. Here below is the instructions for using this free 150 trials with as many accounts.</p>
 
 * * *
 
