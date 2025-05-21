@@ -1,9 +1,32 @@
-<h1 align="center" id="title">Use Cursor AI for free</h1>
+<h1 id="title">Use Cursor AI for free</h1>
 
-<p align="center"><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1747845613/Screenshot_2025-05-21_at_10.09.18_PM_pmj9jm.png" alt="project-image"></p>
-
-<div align="center">
+<!-- Badges -->
 <p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
+  <img src="https://img.shields.io/badge/Platform-Windows%7CmacOS%7CLinux-blue" alt="Platform Support">
+  <a href="https://github.com/abuhuraira-73/cursor-free-vip/stargazers"><img src="https://img.shields.io/github/stars/abuhuraira-73/cursor-free-vip?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/abuhuraira-73/cursor-free-vip/network/members"><img src="https://img.shields.io/github/forks/abuhuraira-73/cursor-free-vip?style=social" alt="GitHub forks"></a>
+</p>
+
+<!-- Table of Contents -->
+<details>
+<summary>📑 <strong>Table of Contents</strong></summary>
+
+- [✨ Tool Features](#✨-tool-features)
+- [💻 System Support](#💻-system-support--系統支持)
+- [👀 How to use](#👀-how-to-use)
+- [❗ Note](#❗-note)
+- [🧑‍💻 Author of this Repo](#🧑‍💻-author-of-this-repo)
+- [🤝 Contribute or Help Me](#🤝-contribute-or-help-me)
+- [📲 Scan to Support](#📲-scan-to-support)
+- [📬 Connect With Me](#📬-connect-with-me)
+
+</details>
+
+<p><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1747845613/Screenshot_2025-05-21_at_10.09.18_PM_pmj9jm.png" alt="project-image"></p>
+
+<div>
+<p>
   <img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1747845782/logo_em2fux.png" alt="Cursor Pro Logo" width="200" style="border-radius: 6px;"/>
 </p>
 
@@ -68,10 +91,6 @@ If you want to stop the script, please press Ctrl+C<br>
 
 * Please comply with the relevant software usage terms when using this tool <br>
 
-
-
-
-  
 <h2>🧑‍💻 Author of this Repo</h2>
 
 <p><strong>Abu Huraira</strong><br>Final Year BCA Student | MERN Stack Developer<br>Techno Main Salt Lake<br><a href="https://github.com/abuhuraira-73" target="_blank">GitHub Profile</a></p>
@@ -105,12 +124,3 @@ If you want to stop the script, please press Ctrl+C<br>
 <a href="https://www.linkedin.com/in/abuhurairajamal/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-
-
-
-
-
-
-
-  
-  
