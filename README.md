@@ -7,69 +7,72 @@
   <img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1747845782/logo_em2fux.png" alt="Cursor Pro Logo" width="200" style="border-radius: 6px;"/>
 </p>
 
-<p><strong>Cursor</strong> is AI-powered code editor designed to enhance developer productivity by integrating advanced AI features directly into the coding environment. Here below is the instructions for using this free 150 trials with as many accounts.</p>
+<p><strong>Cursor</strong> is AI-powered code editor designed to enhance developer productivity by integrating advanced AI features directly into the coding environment. Here below is the instructions for using this free 150 trials with as many accounts. I used Cursor free VIP tool. This tool is for educational purposes, currently the repo does not violate any laws. Please support the original project. This tool will not generate any fake email accounts and OAuth access. Supports Windows, macOS and Linux. For optimal performance, run with privileges and always stay up to date.</p>
 
-* * *
+<h2>✨ Tool Features</h2>
 
-<h2>✨ Features</h2>
+*   🔐 Support Windows macOS and Linux systems
+*   ☁️ Reset Cursor's configuration
+*   ⚡ Multi-language support (English, 简体中文, 繁體中文, Vietnamese)
 
-*   🛒 Seamless product browsing with grid & list view support
-*   👗 Quick Add Wishlist and Compare button modals
-*   ⚡ Product variants (color size) with swatches
-*   👀 Quick View modal with full image slider and product info
-*   🧺 Add to Cart and Checkout functionality
-*   🔐 Secure user login & registration
-*   ☁️ Cloudinary integration for image uploads
+## 💻 System Support | 系統支持
+
+| Operating System | Architecture      | Supported |
+|------------------|-------------------|-----------|
+| Windows          | x64, x86          | ✅         |
+| macOS            | Intel, Apple Silicon | ✅      |
+| Linux            | x64, x86, ARM64   | ✅         |
+
+## 👀 How to use
+
+<details open>
+<summary><b>⭐ Auto Run Script</b></summary>
+
+### **Linux/macOS**
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+```
+
+### **Archlinux**
+
+Install via [AUR](https://aur.archlinux.org/packages/cursor-free-vip-git)
+
+```bash
+yay -S cursor-free-vip-git
+```
+
+### **Windows**
+
+```powershell
+irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.ps1 | iex
+```
+
+</details>
+
+If you want to stop the script, please press Ctrl+C<br>
+
+## ❗ Note 
+
+📝 Config 
+`Win / Macos / Linux Path | 路徑 [Documents/.cursor-free-vip/config.ini]`
+<details>
+<summary><b>⭐ Config </b></summary>
+</details>
+
+* Use administrator privileges to run the script <br>
+
+* Confirm that Cursor is closed before running the script <br>
+
+* This tool is only for learning and research purposes <br>
+
+* Please comply with the relevant software usage terms when using this tool <br>
+
+
+
 
   
-<h2>🛠️ Tech Stack</h2>
-
-**Frontend:**  
-React.js Tailwind CSS Swiper.js Context API (or Redux)  
-  
-**Backend:**  
-Node.js Express.js MongoDB  
-  
-**Other Tools:**  
-JWT Auth Cloudinary Postman Git & GitHub  
-  
-<h2>🚀 Project Structure</h2>
-
-chromaic-ecommerce/
-├── client/       → React frontend (user site)
-├── admin/        → React admin panel
-├── server/       → Node.js backend API
-└── README.md
-
-  
-<h2>📦 Setup Instructions</h2>
-
-**1\. Clone the repo:**  
-`git clone https://github.com/your-username/chromaic-ecommerce.git`  
-`cd chromaic-ecommerce`  
-  
-**2\. Frontend Setup:**  
-`cd client`  
-`npm install`  
-`npm start`  
-  
-**3\. Admin Panel Setup:**  
-`cd ../admin`  
-`npm install`  
-`npm start`  
-  
-**4\. Backend Setup:**  
-`cd ../server`  
-`npm install`  
-`npm run dev`  
-  
-_Note: Don’t forget to add your `.env` file with MongoDB URI JWT secret and Cloudinary credentials._  
-<h2>💡 Inspiration</h2>
-
-<p>Chromaic was built out of passion to create a modern GenZ-centric online fashion store with a clean UI and powerful backend. It focuses on simplicity speed and a great user experience — from browsing to order management.</p>
-
-  
-<h2>🧑‍💻 Author</h2>
+<h2>🧑‍💻 Author of this Repo</h2>
 
 <p><strong>Abu Huraira</strong><br>Final Year BCA Student | MERN Stack Developer<br>Techno Main Salt Lake<br><a href="https://github.com/abuhuraira-73" target="_blank">GitHub Profile</a></p>
 
@@ -105,18 +108,6 @@ _Note: Don’t forget to add your `.env` file with MongoDB URI JWT secret and Cl
 
 
 
-<h2>📄 License</h2>
-
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
-<h2>Project Screenshots:</h2>
-
-<p align="center"><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1744703302/Screenshot_2025-04-15_at_1.17.32_PM_ojjbjt.png" alt="project-image"></p>
-<p align="center"><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1744703303/Screenshot_2025-04-15_at_1.17.52_PM_eapqyq.png alt="project-image"></p>
-<p align="center"><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1744703303/Screenshot_2025-04-15_at_1.07.10_PM_q6yphi.png" alt="project-image"></p>
-<p align="center"><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1744703303/Screenshot_2025-04-15_at_1.07.10_PM_q6yphi.png" alt="project-image"></p>
-<p align="center"><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1744703303/Screenshot_2025-04-15_at_1.17.17_PM_x0tdwd.png" alt="project-image"></p>
-<p align="center"><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1744703303/Screenshot_2025-04-15_at_1.06.23_PM_azekp0.png" alt="project-image"></p>
 
 
 
