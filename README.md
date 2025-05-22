@@ -73,7 +73,12 @@ irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/inst
 
 </details>
 
-If you want to stop the script, please press Ctrl+C<br>
+* If you want to stop the script, please press Ctrl+C<br>
+* First reset the Machine ID. <br>
+* Then another accound With genertated temporary email Address. <br>
+* Don't give the OTP in the cursor webite. Instead give the OTP to terminal. It will autofill. <br>
+* To know how to get unlimited temporary Email address Use the "Temp Mail "website or the app. <br>
+* Thank me later ;) <br>
 
 ## ❗ Note 
 
